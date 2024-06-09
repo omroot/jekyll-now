@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The mathematics of diffusion models one stop-shop detailed derivation.
+title: Gentle Introduction to the Minimum Norm Interpolation Regression.
 ---
 
 
